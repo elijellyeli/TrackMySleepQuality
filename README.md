@@ -13,3 +13,6 @@ In this codelab, working from this starter app,
 you will implement the Room database that holds the sleep data. 
 You will then use instrumented tests to verify that this backend works. 
 
+![Screen #1](screenshots/sleep1.jpg)
+![Screen #2](screenshots/sleep2.jpg)
+![Screen #3](screenshots/sleep3.jpg)
